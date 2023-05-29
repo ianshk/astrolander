@@ -4,7 +4,7 @@ A work in progress landing page starter written in Astro v1.9. It was created to
 
 Uses Tailwind for styling.
 
-<img src="web-shot.png" width="900">
+<img src="web-shot.jpeg" width="900">
 
 ## License
 
